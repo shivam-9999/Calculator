@@ -1,0 +1,23 @@
+.hello {
+    color: rgb(160, 108, 108);
+}
+
+.textField {
+    margin-top: 50px;
+    width: 320px;
+    height: 80px;
+    text-align: right;
+}
+
+.row-1 {
+    margin-left: 2px;
+}
+
+.col-1 {
+    max-width: 400px;
+    min-width: 80px;
+}
+
+button:focus {
+    border: unset!important;
+}
